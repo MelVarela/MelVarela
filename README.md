@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mel Varela
 - 👀 I’m interested in urbanism
-- 🌱 I’m currently learning web development
+- 📜 Degree in web development
+- 🌱 I’m currently learning mobile development
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I drove a boat once
 
